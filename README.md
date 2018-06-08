@@ -1,6 +1,9 @@
 # Project Title
 
-One Paragraph of project description goes here.
+This is the final project of CIT 281 to demonstrate what we have learned this term.  The learning objectives of this project are:
+* React Basics
+* React Components
+* Using the Fetch API with React
 
 ## Deployment
 
